@@ -24,3 +24,8 @@
 git init
 git add .
 git commit -m "First commit"
+```
+clone repo
+```
+git clone https://github.com/username/repo-name.git (guna username ngn repo name tu. ada di url tab)
+```
